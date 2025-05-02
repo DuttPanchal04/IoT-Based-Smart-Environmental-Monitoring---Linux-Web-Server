@@ -358,7 +358,7 @@ void loop() {
 - Develop mobile app for easier remote access.
 - Implement solar-powered operation for remote environments.
 
-##🏁 Applications
+## 🏁 Applications
 - 🌱 Agricultural field monitoring
 - 🏠 Smart home automation
 - 🏭 Industrial environment control
