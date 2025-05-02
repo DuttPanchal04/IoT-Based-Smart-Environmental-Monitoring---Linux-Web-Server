@@ -1,4 +1,4 @@
-# 🌍 IoT-Linux Based Environmental Monitoring System
+# 🌍 IoT Based Smart Environmental Monitoring System with Linux Local Web Server
 
 A real-time IoT system that monitors environmental temperature and humidity using DHT11 and ESP8266, logs the data to a local MySQL database hosted on a Linux server, and displays it through a dynamic PHP-based web interface.
 
@@ -44,7 +44,11 @@ This project aims to build an IoT-based environmental monitoring system using th
 
 ## 🧱 System Architecture
 
-## 🔌 Circuit Connections
+![Block Diagram](https://github.com/user-attachments/assets/070b815a-0ffa-4ad8-803d-6606fe5ae237)
+
+## 🔌 Circuit Diagram and Connections
+
+![Circuit Diagram](https://github.com/user-attachments/assets/de46546a-dd04-4fe7-a0b6-dc2fdc3ba4c2)
 
 | DHT11 Pin            | NodeMCU Pin                                 |
 |---------------------|---------------------------------------------|
@@ -368,9 +372,9 @@ void loop() {
 🖼️ [Circuit Diagram & UI](https://github.com/DuttPanchal04/IoT-Based-Smart-Environmental-Monitoring---Linux-Web-Server/blob/main/Circuit%20Diagram.png)
 
 ## 🤝 Connect
-👨‍💻 Dutt Panchal
-📧 Email: dattpanchal2904@gmail.com
-🔗 [Github](https://github.com/DuttPanchal04)
-🔗 [LinkedIn](https://www.linkedin.com/in/dattpanchal04/)
+- 👨‍💻 Build by Dutt Panchal
+- 📧 Email: dattpanchal2904@gmail.com
+- 🔗 [Github](https://github.com/DuttPanchal04)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dattpanchal04/)
 
 ⭐ If you like this project, don’t forget to give it a star and share it!
