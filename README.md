@@ -255,9 +255,9 @@ Upload this sketch using Arduino IDE:
 
 DHT dht(DHTPIN, DHTTYPE);
 
-const char* ssid = "Datt Panchal";       // Your WiFi SSID
-const char* password = "datt2904";   // Your WiFi Password
-const char* serverIP = "192.168.43.138";   // Run `hostname -I` on Linux terminal
+const char* ssid = "";       // Your WiFi SSID
+const char* password = "";   // Your WiFi Password
+const char* serverIP = "";   // Run `hostname -I` on Linux terminal
 
 WiFiClient client;
 
